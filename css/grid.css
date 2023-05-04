@@ -1,0 +1,20 @@
+.main-home{
+    display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	align-items: center;
+}
+
+.products{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, auto));
+    gap: 2rem;
+}
+    
+  
+.update-cart{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px, auto));
+    gap: 1rem;
+}
+  
+  
