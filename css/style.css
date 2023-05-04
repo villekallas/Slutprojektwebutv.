@@ -23,7 +23,6 @@ header{
 }
 
 
-
 .logo img{
 	max-width: 50px;
 	max-height: auto;
@@ -300,10 +299,6 @@ footer{
 	background-color: rgb(157, 157, 157);
 	padding-bottom: 15px; 
 	padding-top: 10px;
-}
-
-#searchbarid.searchbaropen{
-	background-color: #27b837;
 }
 
 

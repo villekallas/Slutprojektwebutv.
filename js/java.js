@@ -21,5 +21,5 @@ let search = document.querySelector('#searchbarid');
 search.onclick = () => {
     search.classList.toggle('searchbaropen')
 }
-
 */
+
