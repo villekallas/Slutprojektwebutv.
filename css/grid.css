@@ -3,6 +3,7 @@
 	grid-template-columns: repeat(1, 1fr);
 	align-items: center;
 }
+/* gav en enkel gird till main sektionen för att kunna styla den som jag ville. Brydde mig bara om kolumnerna */
 
 .products{
     display: grid;
@@ -10,11 +11,9 @@
     gap: 2rem;
 }
     
-  
-.update-cart{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(380px, auto));
-    gap: 1rem;
-}
+/* gjorde ytterligare en grid, men för produkterna, denna mycker behövlig. Sorterar produkterna i en grid och skrev som ovan för att 
+kontrollera hur många som får plats på varje rad och hur stora/små de får bli. Även avstånd mellan bestämdes här. */
+
+
   
   
